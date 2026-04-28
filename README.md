@@ -19,11 +19,11 @@ This project compares several modeling strategies for predicting monthly electri
 
 The models evaluated include:
 
-Decision tree regression
-Random forest regression
-Random forest with lag features
-Auto ARIMA
-Auto ARIMA with a log transformation
+Decision tree regression, 
+Random forest regression, 
+Random forest with lag features, 
+Auto ARIMA, 
+Auto ARIMA with a log transformation.
 
 All models were evaluated on an out-of-sample test set using RMSE and R².
 
